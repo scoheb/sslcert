@@ -4,13 +4,13 @@ lockfileVendor: redhat
 arches:
 - arch: aarch64
   packages:
-  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/a/alternatives-1.00-2.fc43.aarch64.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/a/alternatives-1.33-2.fc43.aarch64.rpm
     repoid: rawhide
     size: 40805
-    checksum: sha256:00e99b538088b1dfb56b87660a00f4f9406a62eb3bb4b2a12548039ae40f5809
+    checksum: sha256:78e99b538088b1dfb56b87660a00f4f9406a62eb3bb4b2a12548039ae40f5809
     name: alternatives
-    evr: 1.00-2.fc43
-    sourcerpm: chkconfig-1.00-2.fc43.src.rpm
+    evr: 1.33-2.fc43
+    sourcerpm: chkconfig-1.33-2.fc43.src.rpm
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/a/audit-libs-4.1.2-2.fc44.aarch64.rpm
     repoid: rawhide
     size: 143277
