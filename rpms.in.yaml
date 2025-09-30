@@ -1,0 +1,11 @@
+---
+packages:
+  - coreutils-single
+  - curl
+  - libcurl-minimal
+contentOrigin:
+  repofiles:
+    - yum-repos/fedora-rawhide.repo
+arches: [x86_64, aarch64]
+context:
+  bare: true

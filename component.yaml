@@ -1,0 +1,17 @@
+---
+apiVersion: appstudio.redhat.com/v1alpha1
+kind: Component
+metadata:
+  annotations:
+    git-provider: github
+    build.appstudio.openshift.io/request: configure-pac
+    image.redhat.com/generate: '{"visibility": "public"}'
+  name: sslcert
+spec:
+  application: sslcert
+  componentName: sslcert
+  source:
+    git:
+      dockerfileUrl: Containerfile
+      revision: main
+      url: https://github.com/scoheb/sslcert.git

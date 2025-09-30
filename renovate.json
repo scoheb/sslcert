@@ -1,0 +1,12 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "schedule": ["at any time"],
+  "rpm-lockfile": {
+    "lockFileMaintenance": {
+      "commitMessageAction": "Refresh RPM lockfiles"
+    },
+    "automerge": true
+  },
+  "prHourlyLimit": 50,
+  "dependencyDashboard": true
+}

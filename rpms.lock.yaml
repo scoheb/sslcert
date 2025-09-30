@@ -1,0 +1,1560 @@
+---
+lockfileVersion: 1
+lockfileVendor: redhat
+arches:
+- arch: aarch64
+  packages:
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/a/alternatives-1.33-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 40805
+    checksum: sha256:78e99b538088b1dfb56b87660a00f4f9406a62eb3bb4b2a12548039ae40f5809
+    name: alternatives
+    evr: 1.33-2.fc43
+    sourcerpm: chkconfig-1.33-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/a/audit-libs-4.1.2-2.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 143277
+    checksum: sha256:f1749c99674c0a11ada72a722b4b0ed572def60fa2455fcb5763780a9487d0aa
+    name: audit-libs
+    evr: 4.1.2-2.fc44
+    sourcerpm: audit-4.1.2-2.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/b/bash-5.3.0-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 1928615
+    checksum: sha256:621982221694140270abd51ccc15e576c77c5c1415bab97abf66ebb3ca00aa93
+    name: bash
+    evr: 5.3.0-2.fc43
+    sourcerpm: bash-5.3.0-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/b/bzip2-libs-1.0.8-21.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 41879
+    checksum: sha256:4cb9962acb1537f66ddfde13deb5cf5783dd3ac55435ddb569c3277fe59dbb56
+    name: bzip2-libs
+    evr: 1.0.8-21.fc43
+    sourcerpm: bzip2-1.0.8-21.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/c/ca-certificates-2025.2.80_v9.0.304-2.fc44.noarch.rpm
+    repoid: rawhide
+    size: 997201
+    checksum: sha256:7b24bd1315b2b5fdff265370392c3f948161583fd1b4c461550c578abef8f37a
+    name: ca-certificates
+    evr: 2025.2.80_v9.0.304-2.fc44
+    sourcerpm: ca-certificates-2025.2.80_v9.0.304-2.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/c/coreutils-single-9.8-3.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 671830
+    checksum: sha256:9d2eae6e479ecf804349199a4c95a87a8a2bd139ac06eb983c3e45032ee5f100
+    name: coreutils-single
+    evr: 9.8-3.fc44
+    sourcerpm: coreutils-9.8-3.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/c/crypto-policies-20250714-5.gitcd6043a.fc44.noarch.rpm
+    repoid: rawhide
+    size: 100855
+    checksum: sha256:3c38d08322b90ebc876544a843369b356b526e3edc1fdd98f8d159a811a2cdcd
+    name: crypto-policies
+    evr: 20250714-5.gitcd6043a.fc44
+    sourcerpm: crypto-policies-20250714-5.gitcd6043a.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/c/crypto-policies-scripts-20250714-5.gitcd6043a.fc44.noarch.rpm
+    repoid: rawhide
+    size: 136306
+    checksum: sha256:d7a054e48d6a2b69db57b24951ddab13d07621ccae17682f9295274e5141ed3b
+    name: crypto-policies-scripts
+    evr: 20250714-5.gitcd6043a.fc44
+    sourcerpm: crypto-policies-20250714-5.gitcd6043a.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/c/curl-8.16.0-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 238376
+    checksum: sha256:7f64468e2b76cc5fcc23e6c470e07323d97aa71878b77c9d63df125ef6d90fbd
+    name: curl
+    evr: 8.16.0-1.fc44
+    sourcerpm: curl-8.16.0-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/e/expat-2.7.2-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 117998
+    checksum: sha256:349c91abcf2184201d76ca623cff438ab816414e4bb0ec9eccc5dcf1ff3ac021
+    name: expat
+    evr: 2.7.2-1.fc44
+    sourcerpm: expat-2.7.2-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/f/fedora-gpg-keys-44-0.1.noarch.rpm
+    repoid: rawhide
+    size: 142099
+    checksum: sha256:e3233a41a4b7535354fbb6b93731c442b874ea8a7035e21f10e19d4ee1ae8d10
+    name: fedora-gpg-keys
+    evr: 44-0.1
+    sourcerpm: fedora-repos-44-0.1.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/f/fedora-release-44-0.2.noarch.rpm
+    repoid: rawhide
+    size: 14289
+    checksum: sha256:b5f6a2c36dae698e01898c6052ecb3f6fa679a9ed120ffcf1f75559f30221d23
+    name: fedora-release
+    evr: 44-0.2
+    sourcerpm: fedora-release-44-0.2.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/f/fedora-release-common-44-0.2.noarch.rpm
+    repoid: rawhide
+    size: 25633
+    checksum: sha256:312d2714d8c4cf7484809a245f8ef799e90c486a73e567c4afc89d1d6102ab94
+    name: fedora-release-common
+    evr: 44-0.2
+    sourcerpm: fedora-release-44-0.2.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/f/fedora-release-identity-basic-44-0.2.noarch.rpm
+    repoid: rawhide
+    size: 15073
+    checksum: sha256:a1c5d65c2b5d713283a1c2813b431191d6fad53dc9bed37ffafa7746ac2ac8ab
+    name: fedora-release-identity-basic
+    evr: 44-0.2
+    sourcerpm: fedora-release-44-0.2.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/f/fedora-repos-44-0.1.noarch.rpm
+    repoid: rawhide
+    size: 9291
+    checksum: sha256:550bd5e50ea6759f7e906d7be609e4aa407d60aa92f9391d414b56ac6470c4c4
+    name: fedora-repos
+    evr: 44-0.1
+    sourcerpm: fedora-repos-44-0.1.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/f/fedora-repos-rawhide-44-0.1.noarch.rpm
+    repoid: rawhide
+    size: 8855
+    checksum: sha256:adde42183e481d2fe525dfd6049be04fa0e070df780e5c7715391490aa0c4099
+    name: fedora-repos-rawhide
+    evr: 44-0.1
+    sourcerpm: fedora-repos-44-0.1.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/f/filesystem-3.18-50.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 1398497
+    checksum: sha256:979375962d0abb0c359b3d89058c082013c3e7d24d17feed659a721061dc22a6
+    name: filesystem
+    evr: 3.18-50.fc43
+    sourcerpm: filesystem-3.18-50.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/f/findutils-4.10.0-6.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 566014
+    checksum: sha256:889f62dfa4a2b7b82fdf3c520a5b941a074776c3e2116e91e62ad0f9a83d1acc
+    name: findutils
+    evr: 1:4.10.0-6.fc43
+    sourcerpm: findutils-4.10.0-6.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/g/gdbm-libs-1.23-10.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 57361
+    checksum: sha256:abcafe28a229e6fe874e3f974b70306656548daf64719d47847415f7f681f219
+    name: gdbm-libs
+    evr: 1:1.23-10.fc43
+    sourcerpm: gdbm-1.23-10.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/g/glibc-2.42.9000-5.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 1916599
+    checksum: sha256:a24ef0416ba7e8f3b9bb11f764c8a7d059e4fbcb6506acbeae341645b195f102
+    name: glibc
+    evr: 2.42.9000-5.fc44
+    sourcerpm: glibc-2.42.9000-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/g/glibc-common-2.42.9000-5.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 327881
+    checksum: sha256:970669991a9ed1be950ee7e4fffc3c5ceb98a0715d9fa1cb88a924d0d3748308
+    name: glibc-common
+    evr: 2.42.9000-5.fc44
+    sourcerpm: glibc-2.42.9000-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/g/glibc-gconv-extra-2.42.9000-5.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 1746154
+    checksum: sha256:cd5ea4c9d9b977a149ac9e90ebee0f66b2dca6ffa4150b2c0fd3fade91c5dee4
+    name: glibc-gconv-extra
+    evr: 2.42.9000-5.fc44
+    sourcerpm: glibc-2.42.9000-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/g/glibc-minimal-langpack-2.42.9000-5.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 46805
+    checksum: sha256:8c401f0471dd9a950a788ddbafcaf10ecae9e2a751bad922c59dad35d90601fd
+    name: glibc-minimal-langpack
+    evr: 2.42.9000-5.fc44
+    sourcerpm: glibc-2.42.9000-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/g/grep-3.12-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 303358
+    checksum: sha256:5f81f7417419cd01deab5d08b72d7b61cee517c84f71b97905b3168e1ff7e3ac
+    name: grep
+    evr: 3.12-2.fc43
+    sourcerpm: grep-3.12-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/k/keyutils-libs-1.6.3-6.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 32272
+    checksum: sha256:f912e9c2c9e4007dac3f0e14b36d639cbb2e5553b047fdca5a240f635814b4c6
+    name: keyutils-libs
+    evr: 1.6.3-6.fc43
+    sourcerpm: keyutils-1.6.3-6.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/k/krb5-libs-1.21.3-8.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 770961
+    checksum: sha256:593079303a10c2515e72169b52aeb3d75d411be0c8132da71fa04c1134ae1d63
+    name: krb5-libs
+    evr: 1.21.3-8.fc44
+    sourcerpm: krb5-1.21.3-8.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libacl-2.3.2-4.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 24751
+    checksum: sha256:1d8e804dfc0c7427f70936f2bde86ae29d00d3f2c585a54e37c09aa0fee8d2b1
+    name: libacl
+    evr: 2.3.2-4.fc43
+    sourcerpm: acl-2.3.2-4.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libattr-2.5.2-6.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 18146
+    checksum: sha256:80a53e9539ef339d95f077936db09b25a753a1cdf750ac76dc8d92cb82a776dc
+    name: libattr
+    evr: 2.5.2-6.fc43
+    sourcerpm: attr-2.5.2-6.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libcap-2.76-3.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 89971
+    checksum: sha256:d6974e874376c14f8c73a9fdf4e4fb2814693f1cb6da50f79b168893249d13bf
+    name: libcap
+    evr: 2.76-3.fc44
+    sourcerpm: libcap-2.76-3.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libcap-ng-0.8.5-8.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 33058
+    checksum: sha256:a1839edd646e4369f1f462300eb9d92469aceaa15a69b713057768a674767294
+    name: libcap-ng
+    evr: 0.8.5-8.fc44
+    sourcerpm: libcap-ng-0.8.5-8.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libcom_err-1.47.3-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 27348
+    checksum: sha256:55e762e8d52bd24a0d883f001477dc103c5b0fc5be98e737492a3c32ed4549f2
+    name: libcom_err
+    evr: 1.47.3-2.fc43
+    sourcerpm: e2fsprogs-1.47.3-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libcurl-minimal-8.16.0-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 326441
+    checksum: sha256:003228d994e41400172fd2ec2513c882f42437f822bd16bee0844fa4ed438731
+    name: libcurl-minimal
+    evr: 8.16.0-1.fc44
+    sourcerpm: curl-8.16.0-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libeconf-0.7.9-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 36011
+    checksum: sha256:9190d5d488ff79952ea1de39fce89f0651bbf6c551bbbbdede06dfbb9d96036d
+    name: libeconf
+    evr: 0.7.9-2.fc43
+    sourcerpm: libeconf-0.7.9-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libffi-3.5.2-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 40321
+    checksum: sha256:dcb89bf8ff322809cd2cb1a429c2a7f9f5c18824e8a81fae4752247ea80eb1e6
+    name: libffi
+    evr: 3.5.2-1.fc44
+    sourcerpm: libffi-3.5.2-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libgcc-15.2.1-2.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 119712
+    checksum: sha256:2b52c85f9e605db2dc87bae12f405974f17ceb140e66c39e8fe661ddaf15620c
+    name: libgcc
+    evr: 15.2.1-2.fc44
+    sourcerpm: gcc-15.2.1-2.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libidn2-2.3.8-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 178840
+    checksum: sha256:5284a75c91ce9b1be541679df2bb7d166f5f2c2c7e15a66ccafbd64f616d993e
+    name: libidn2
+    evr: 2.3.8-2.fc43
+    sourcerpm: libidn2-2.3.8-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libnghttp2-1.67.1-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 74284
+    checksum: sha256:6072dedf6dbed892f180d9b61e20fadaefb25e922e4b1cacb641437e633f7dc2
+    name: libnghttp2
+    evr: 1.67.1-1.fc44
+    sourcerpm: nghttp2-1.67.1-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libselinux-3.9-5.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 98926
+    checksum: sha256:49ce7f86af8f47490b275ada9a3a1bb1a4e6356c0bf965b17f1497ca32de3b6f
+    name: libselinux
+    evr: 3.9-5.fc44
+    sourcerpm: libselinux-3.9-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libsepol-3.9-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 331318
+    checksum: sha256:9138ece533ac24f20f009641107165a59460c94f1753d1bd586922e70cd6d279
+    name: libsepol
+    evr: 3.9-2.fc43
+    sourcerpm: libsepol-3.9-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libtasn1-4.20.0-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 75587
+    checksum: sha256:fc1b7f5b8d0052ec78b100567de30663c44e9ed34130820cc1af911e672536e5
+    name: libtasn1
+    evr: 4.20.0-2.fc43
+    sourcerpm: libtasn1-4.20.0-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libunistring-1.1-10.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 552100
+    checksum: sha256:d96f91656838cec4b0a43a94c0c40de7bd6a49514318a08c568c5a9cb08be59c
+    name: libunistring
+    evr: 1.1-10.fc43
+    sourcerpm: libunistring-1.1-10.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libuuid-2.41.1-17.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 26460
+    checksum: sha256:b7f479bd885d281b6ee367c92c85daea216f280357b02110607a2771c95a6c74
+    name: libuuid
+    evr: 2.41.1-17.fc44
+    sourcerpm: util-linux-2.41.1-17.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libverto-0.3.2-11.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 20919
+    checksum: sha256:b6eee4d034e27fdbbfe58f8087ad7fc13cb0be7541138e7c8314fccfbfa08f65
+    name: libverto
+    evr: 0.3.2-11.fc43
+    sourcerpm: libverto-0.3.2-11.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/l/libzstd-1.5.7-3.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 340103
+    checksum: sha256:9943cc7a5d885d03df3be817a59f1724b87df03dacb73fdd47308d4834d49149
+    name: libzstd
+    evr: 1.5.7-3.fc44
+    sourcerpm: zstd-1.5.7-3.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/m/mpdecimal-4.0.1-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 98060
+    checksum: sha256:9446f518d5ccfc5a1a27bb26bc9b33509d8c628d7c1ceae8e880472d76d87731
+    name: mpdecimal
+    evr: 4.0.1-2.fc43
+    sourcerpm: mpdecimal-4.0.1-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/n/ncurses-base-6.5-7.20250614.fc43.noarch.rpm
+    repoid: rawhide
+    size: 90314
+    checksum: sha256:96c933d77b453617d65fa662fda74b17efea86288d8e570d09aa45dd0fedd41b
+    name: ncurses-base
+    evr: 6.5-7.20250614.fc43
+    sourcerpm: ncurses-6.5-7.20250614.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/n/ncurses-libs-6.5-7.20250614.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 332346
+    checksum: sha256:3ba08d198553113fb97c895bcd59bbc831a28b33bcc65d5b9cedf4bd5ffbd805
+    name: ncurses-libs
+    evr: 6.5-7.20250614.fc43
+    sourcerpm: ncurses-6.5-7.20250614.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/o/openssl-libs-3.5.1-3.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 2490994
+    checksum: sha256:73c80a3bf979a774b876a759978d66e0a060146bba1c6f8cf84536ea8c76c645
+    name: openssl-libs
+    evr: 1:3.5.1-3.fc44
+    sourcerpm: openssl-3.5.1-3.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/p11-kit-0.25.8-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 504106
+    checksum: sha256:fd43d5ff0bfd822d21edff202b4c6d16b0a5772f346695cbf907ea228ba11e95
+    name: p11-kit
+    evr: 0.25.8-1.fc44
+    sourcerpm: p11-kit-0.25.8-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/p11-kit-trust-0.25.8-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 141958
+    checksum: sha256:012325b290845af6b58e3af5f1ea4b57970dc3d3bb3e3b17ac34a59fad23e90a
+    name: p11-kit-trust
+    evr: 0.25.8-1.fc44
+    sourcerpm: p11-kit-0.25.8-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/pam-libs-1.7.1-3.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 58819
+    checksum: sha256:95400e606d1c233dc0cc782309bc251e639da3fe45c2f64bf43b08b27dcf9032
+    name: pam-libs
+    evr: 1.7.1-3.fc43
+    sourcerpm: pam-1.7.1-3.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/pcre2-10.46-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 248496
+    checksum: sha256:1a94333efc17dab1d5ceb5be498c323ea4ffcd67478b637319a99bf3f7c66458
+    name: pcre2
+    evr: 10.46-1.fc44
+    sourcerpm: pcre2-10.46-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/pcre2-syntax-10.46-1.fc44.noarch.rpm
+    repoid: rawhide
+    size: 166057
+    checksum: sha256:e8dddf85dfd1845827cd3eb19bda168643dfb3902937dc68866e709ae0614c4d
+    name: pcre2-syntax
+    evr: 10.46-1.fc44
+    sourcerpm: pcre2-10.46-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/pkcs11-provider-1.1-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 173179
+    checksum: sha256:e038668a951e807c9324e430c6cbac153179e686e9a2c9055cc82055ce16d20f
+    name: pkcs11-provider
+    evr: 1.1-1.fc44
+    sourcerpm: pkcs11-provider-1.1-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/python-pip-wheel-25.2-4.fc44.noarch.rpm
+    repoid: rawhide
+    size: 1188586
+    checksum: sha256:ea38081f0e2c631e66da43628dd11e4eed8ef838cc334f3c48265d36be74f40f
+    name: python-pip-wheel
+    evr: 25.2-4.fc44
+    sourcerpm: python-pip-25.2-4.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/python-unversioned-command-3.14.0~rc3-1.fc44.noarch.rpm
+    repoid: rawhide
+    size: 9853
+    checksum: sha256:fb6e352b8ef178f70e725770ff65c10a8f24722526b7ca621ec71136f45b4a55
+    name: python-unversioned-command
+    evr: 3.14.0~rc3-1.fc44
+    sourcerpm: python3.14-3.14.0~rc3-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/python3-3.14.0~rc3-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 28413
+    checksum: sha256:3cad52d4feb185c802579dad3f022f4b9d35118b4818abffec545197b98e0cbd
+    name: python3
+    evr: 3.14.0~rc3-1.fc44
+    sourcerpm: python3.14-3.14.0~rc3-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/p/python3-libs-3.14.0~rc3-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 10169512
+    checksum: sha256:2ebf652f74b14da2f28cc7beca1352fa8fd7f032dac0d3971259446393eee074
+    name: python3-libs
+    evr: 3.14.0~rc3-1.fc44
+    sourcerpm: python3.14-3.14.0~rc3-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/r/readline-8.3-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 227099
+    checksum: sha256:63e015833e336bb9f664954c088dadd23cf073f8b4669297b2873b136b19bca2
+    name: readline
+    evr: 8.3-2.fc43
+    sourcerpm: readline-8.3-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/s/sed-4.9-5.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 321876
+    checksum: sha256:56f207921247bb910f6029e1c71d51f28be640de04b979fb0157daff8ebab95e
+    name: sed
+    evr: 4.9-5.fc43
+    sourcerpm: sed-4.9-5.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/s/setup-2.15.0-26.fc43.noarch.rpm
+    repoid: rawhide
+    size: 161100
+    checksum: sha256:bc8674d724c5000b0381c87b77430d2858f7caffac223161b7a2852ace87bed3
+    name: setup
+    evr: 2.15.0-26.fc43
+    sourcerpm: setup-2.15.0-26.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/s/sqlite-libs-3.50.4-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 761227
+    checksum: sha256:0b7fe3877114656544ec3e1e1c72b37a0f496644b740412d9216fc54c5c8a358
+    name: sqlite-libs
+    evr: 3.50.4-1.fc44
+    sourcerpm: sqlite-3.50.4-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/s/systemd-libs-258-1.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 802259
+    checksum: sha256:c8f6f13c86ad79ff4616ff9c4713efae2cf669f2cf41eabb9faef817858d39d6
+    name: systemd-libs
+    evr: 258-1.fc44
+    sourcerpm: systemd-258-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/t/tzdata-2025b-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 731033
+    checksum: sha256:af599d6221dd44a934f7bee6b429fb1a1f49c0c659149c015d4cab7d580e074e
+    name: tzdata
+    evr: 2025b-3.fc43
+    sourcerpm: tzdata-2025b-3.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/x/xz-libs-5.8.1-2.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 113929
+    checksum: sha256:d5a93836bf5934c6ad78c456116d8475111e603f02780854ed7695c18c83cb5c
+    name: xz-libs
+    evr: 1:5.8.1-2.fc43
+    sourcerpm: xz-5.8.1-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/z/zlib-ng-compat-2.2.5-2.fc44.aarch64.rpm
+    repoid: rawhide
+    size: 67417
+    checksum: sha256:db39f3d4f3c4c9156a4118fb6c62fe148dabe293649c69f296ea83f9a7b25840
+    name: zlib-ng-compat
+    evr: 2.2.5-2.fc44
+    sourcerpm: zlib-ng-2.2.5-2.fc44.src.rpm
+  source:
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/acl-2.3.2-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 633361
+    checksum: sha256:2377c5bcd45b5fa25bb5a142eac2a3734ee6e20e23c823449e0f88a964ab6970
+    name: acl
+    evr: 2.3.2-4.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/attr-2.5.2-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 409941
+    checksum: sha256:cd2a6957afb4bbb99d4ab18408e4b16fe47a990e25b7e46b613bc99c074a08dd
+    name: attr
+    evr: 2.5.2-6.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/audit-4.1.2-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 705614
+    checksum: sha256:abfd60a1be3d15041f42acceac222f8f4ce379410755e973173217d87df83152
+    name: audit
+    evr: 4.1.2-2.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/b/bash-5.3.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 11466781
+    checksum: sha256:125e5a73e476713a3e08b8f8e6080a51b789945be408d9db118cdc7cc64a79d4
+    name: bash
+    evr: 5.3.0-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/b/bzip2-1.0.8-21.fc43.src.rpm
+    repoid: rawhide-source
+    size: 847670
+    checksum: sha256:484fc8b470d0a0adfb5a9ed5b28a1f49ac8bf2fa0974ba85885040efde247575
+    name: bzip2
+    evr: 1.0.8-21.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/ca-certificates-2025.2.80_v9.0.304-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 778430
+    checksum: sha256:1b769427ba814771f2bfca55af79a60a70ca847b319e33a90afd1ee03602d723
+    name: ca-certificates
+    evr: 2025.2.80_v9.0.304-2.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/chkconfig-1.33-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 248708
+    checksum: sha256:27f72240ba77a301929bc1615dd6f41f1a8a6ee1c51c8f1983337dfd565d1401
+    name: chkconfig
+    evr: 1.33-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/coreutils-9.8-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 6428312
+    checksum: sha256:b451e50ccabbffa9ec2a8e3999c2f0bbfb0caf57c67fd1366e1e161694e7a58b
+    name: coreutils
+    evr: 9.8-3.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/crypto-policies-20250714-5.gitcd6043a.fc44.src.rpm
+    repoid: rawhide-source
+    size: 178988
+    checksum: sha256:fd3eb46521bc2b149ede9d17bfbc08e879639e8dbf7aa7e5a24d5987fe4142aa
+    name: crypto-policies
+    evr: 20250714-5.gitcd6043a.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/curl-8.16.0-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2890432
+    checksum: sha256:f858688f2742baec3d47b7f79666784f9f393f51bbc87353c62d527008d0f1ec
+    name: curl
+    evr: 8.16.0-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/e/e2fsprogs-1.47.3-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 7738172
+    checksum: sha256:3b130b9f81a08772b53f81c1f92364086059732e008d2b5d4489418fa36fa3b9
+    name: e2fsprogs
+    evr: 1.47.3-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/e/expat-2.7.2-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 847646
+    checksum: sha256:ca0c2f9b6d6ae20398cb4836ac726aad4e946396ecd633ebd6b24324aa66d346
+    name: expat
+    evr: 2.7.2-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/fedora-release-44-0.2.src.rpm
+    repoid: rawhide-source
+    size: 165588
+    checksum: sha256:9434de02c7bb67bbdba29d02585cbbf178fe5a58050b4ecf467890255681282c
+    name: fedora-release
+    evr: 44-0.2
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/fedora-repos-44-0.1.src.rpm
+    repoid: rawhide-source
+    size: 148052
+    checksum: sha256:53d9f0e2860e19a7bcbc3e3f806867be5a027ad10e48b68e5b18f002bd27ecf9
+    name: fedora-repos
+    evr: 44-0.1
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/filesystem-3.18-50.fc43.src.rpm
+    repoid: rawhide-source
+    size: 339736
+    checksum: sha256:12595de9e025521021218b191d3bb48d198e0f74f9d681c2be8dce5d16afff38
+    name: filesystem
+    evr: 3.18-50.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/findutils-4.10.0-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2330115
+    checksum: sha256:71391b2f82aa1947fe3448eeadbe4c82eb2e518cc699d60ace1eaa22a64c0248
+    name: findutils
+    evr: 1:4.10.0-6.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gcc-15.2.1-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 96942584
+    checksum: sha256:4fc9da80958c2b6661c5454f5198bf03cf29581db2ab6d8604eeafe11ebc69a7
+    name: gcc
+    evr: 15.2.1-2.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gdbm-1.23-10.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1151702
+    checksum: sha256:8ce67ae4e56038bc096296267f91dfaa9ad42f2f3227178fe620310d08bb9ca0
+    name: gdbm
+    evr: 1:1.23-10.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/glibc-2.42.9000-5.fc44.src.rpm
+    repoid: rawhide-source
+    size: 21477923
+    checksum: sha256:662968ef0fed069befbebee9fb700896f765184c2f741dccafa48ba3443c29a2
+    name: glibc
+    evr: 2.42.9000-5.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/grep-3.12-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2159821
+    checksum: sha256:a6a83547569e4559d0836a2d5899cf4c0f92e83221f3dd346524bb9ddf12604e
+    name: grep
+    evr: 3.12-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/k/keyutils-1.6.3-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 163486
+    checksum: sha256:783c52298058e034ea830e93375dcbbc38b00ea4366f89212e5fd77b8c171339
+    name: keyutils
+    evr: 1.6.3-6.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/k/krb5-1.21.3-8.fc44.src.rpm
+    repoid: rawhide-source
+    size: 9664671
+    checksum: sha256:a3250abd9bf67bdea2b75730dff9f8acb1522df616e5e768779ce17b92a8b184
+    name: krb5
+    evr: 1.21.3-8.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libcap-2.76-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 306230
+    checksum: sha256:345edeb720bf03eda3f2352e30ea02457164eaed2d7e55b8bb60f337cf4bbe8a
+    name: libcap
+    evr: 2.76-3.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libcap-ng-0.8.5-8.fc44.src.rpm
+    repoid: rawhide-source
+    size: 492302
+    checksum: sha256:c6b4968a6984fa8f1c90addf6d464369c942da21e47883f17a84dd00c595bb8b
+    name: libcap-ng
+    evr: 0.8.5-8.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libeconf-0.7.9-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 274685
+    checksum: sha256:acb15afff25fe1887120fc3d38c659e4773e53b80b51d7e5546dcce23379a94e
+    name: libeconf
+    evr: 0.7.9-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libffi-3.5.2-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 1457476
+    checksum: sha256:c5238097f0924c57006cc0d783e41d381515a8e17df239c0f13fb29729b311bc
+    name: libffi
+    evr: 3.5.2-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libidn2-2.3.8-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2250373
+    checksum: sha256:7a541a5fb90c0633461feb1dced2fe5b47eafd166664d6c7d452a24199ffdb5d
+    name: libidn2
+    evr: 2.3.8-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libselinux-3.9-5.fc44.src.rpm
+    repoid: rawhide-source
+    size: 398380
+    checksum: sha256:d3d5af7ea5a2c89c540afd38361340e41e22d2038dea968f374998ee58f4783d
+    name: libselinux
+    evr: 3.9-5.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libsepol-3.9-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 623219
+    checksum: sha256:7ecae8f77153660e6adc2f6c0e5ea24d2bf15390e109163adacf6c20a8b7c1b9
+    name: libsepol
+    evr: 3.9-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libtasn1-4.20.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1818686
+    checksum: sha256:29e4cf061886445c5e892c875a5a5de653c2d5136f95589a8be511eb221de9ce
+    name: libtasn1
+    evr: 4.20.0-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libunistring-1.1-10.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2422655
+    checksum: sha256:08a3c254683ef43511a66e0737585e15a1be593948428af720a9728f09a39c60
+    name: libunistring
+    evr: 1.1-10.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libverto-0.3.2-11.fc43.src.rpm
+    repoid: rawhide-source
+    size: 410489
+    checksum: sha256:f6517880e706eebde28b2b64ece332d772108a6cdfec74b6563b8243f0feddc6
+    name: libverto
+    evr: 0.3.2-11.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/m/mpdecimal-4.0.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1088939
+    checksum: sha256:319ea8f7950830df001fddbc8ededeb6b804cbc3119c2f470f893b504df50efc
+    name: mpdecimal
+    evr: 4.0.1-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/n/ncurses-6.5-7.20250614.fc43.src.rpm
+    repoid: rawhide-source
+    size: 3855709
+    checksum: sha256:c076395bb22e4492f2cd348689ff617f68bb7cfea4e8c89012dc3938094d4b17
+    name: ncurses
+    evr: 6.5-7.20250614.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/n/nghttp2-1.67.1-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 1715137
+    checksum: sha256:fc671a37365a554646b1c3d413438d430fad9488563766727371c9b42faf2455
+    name: nghttp2
+    evr: 1.67.1-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/o/openssl-3.5.1-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 53407687
+    checksum: sha256:d379ea83cff49f7cbdf064dfdad29e2bb571730a67a4e2bafee0f6ebe4c21b59
+    name: openssl
+    evr: 1:3.5.1-3.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/p11-kit-0.25.8-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 1117373
+    checksum: sha256:2683442dfdb62ae20443f47ad4c18819b48d2927dabab5e24566cdaa0a8d0430
+    name: p11-kit
+    evr: 0.25.8-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pam-1.7.1-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 664745
+    checksum: sha256:87760e267551782d6f0d471c9e868d9fb7aad7c5b7b38b6d36937e87210aac6d
+    name: pam
+    evr: 1.7.1-3.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pcre2-10.46-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2097043
+    checksum: sha256:fc1a1136493053c2a50d58e06d5b12d304f9802f4a1bcfd72dc88d1d275ec8f6
+    name: pcre2
+    evr: 10.46-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pkcs11-provider-1.1-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 206203
+    checksum: sha256:054ff6bd6688889b6e4e0301a7dad6d437307d294ddd426122288b2b10e7b11b
+    name: pkcs11-provider
+    evr: 1.1-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/python-pip-25.2-4.fc44.src.rpm
+    repoid: rawhide-source
+    size: 10449826
+    checksum: sha256:d496f5976d7d3f0e927068a0ef3f06281c6d918f0fa037233c905e8eb935a980
+    name: python-pip
+    evr: 25.2-4.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/python3.14-3.14.0~rc3-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 23702795
+    checksum: sha256:07730c21bed4f63d313c2622ff402ca0e3aedd5a1db40113dd240a6ebd8e423c
+    name: python3.14
+    evr: 3.14.0~rc3-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/r/readline-8.3-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 3479764
+    checksum: sha256:233bb786e7706c923f0629926c9e08d69089d67c0af23b46a062fbbbe878a148
+    name: readline
+    evr: 8.3-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/sed-4.9-5.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1492718
+    checksum: sha256:bca7d324a4b302486a116f0ba2226ae8339a01c1d75a507bdd6bc8acc8c1bce8
+    name: sed
+    evr: 4.9-5.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/setup-2.15.0-26.fc43.src.rpm
+    repoid: rawhide-source
+    size: 247958
+    checksum: sha256:0619e5b9c93cf7f55e5a134675e45ded54806c986d01c1502fa265508d58faaa
+    name: setup
+    evr: 2.15.0-26.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/sqlite-3.50.4-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 28421156
+    checksum: sha256:77ebc23d4586f033547646ebcf6dcebc2b6421641a3a4b018432a8f843bf5a71
+    name: sqlite
+    evr: 3.50.4-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/systemd-258-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 17045581
+    checksum: sha256:989fa00f54de3a018d5990d6c4643116fead4a2de9fbea32466ff0ea178349e9
+    name: systemd
+    evr: 258-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/tzdata-2025b-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 899472
+    checksum: sha256:db3f6927a9f3b249a9369f32fd16f465f949f1753c0f1e1db69001c0db8d4875
+    name: tzdata
+    evr: 2025b-3.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/u/util-linux-2.41.1-17.fc44.src.rpm
+    repoid: rawhide-source
+    size: 9667084
+    checksum: sha256:f46c2a81608cea98f509f06d0d40a6962b8ca58ff9abe4faec10b9d2801a1635
+    name: util-linux
+    evr: 2.41.1-17.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/x/xz-5.8.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2631822
+    checksum: sha256:755a276d473b50c0e8d2b6b69f6e9deaa04f30993cb3087b9d5a00ede92272be
+    name: xz
+    evr: 1:5.8.1-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/z/zlib-ng-2.2.5-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2422995
+    checksum: sha256:9bdbdf42fd0c151d602636dc708f3711c790bad5261d6e0eba1581cded212646
+    name: zlib-ng
+    evr: 2.2.5-2.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/z/zstd-1.5.7-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2469977
+    checksum: sha256:3adffa4e7ca38f71ffcaabcb0629c786e491dd28e99cb190109c5547f30dba84
+    name: zstd
+    evr: 1.5.7-3.fc44
+  module_metadata: []
+- arch: x86_64
+  packages:
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/a/alternatives-1.33-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 41657
+    checksum: sha256:1a20019089c7cfddac0a3e75cbd164d373c73b3e53f66321f5ce712f8d24557d
+    name: alternatives
+    evr: 1.33-2.fc43
+    sourcerpm: chkconfig-1.33-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/a/audit-libs-4.1.2-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 141756
+    checksum: sha256:bf046b561521ea12a9deec1ac6e87fd36d6565e5abd02a6d33b9c26998099398
+    name: audit-libs
+    evr: 4.1.2-2.fc44
+    sourcerpm: audit-4.1.2-2.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/b/bash-5.3.0-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 1960689
+    checksum: sha256:cc112d6284d1be418582f30eea2c18545c0ac5f6fe820219d04c6e8fe2cfff7f
+    name: bash
+    evr: 5.3.0-2.fc43
+    sourcerpm: bash-5.3.0-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/b/bzip2-libs-1.0.8-21.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 44098
+    checksum: sha256:0286fb4616642626bfca82de7c5b84e5c5cd52e748eb77a275371a5eca4e2d7f
+    name: bzip2-libs
+    evr: 1.0.8-21.fc43
+    sourcerpm: bzip2-1.0.8-21.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/c/ca-certificates-2025.2.80_v9.0.304-2.fc44.noarch.rpm
+    repoid: rawhide
+    size: 997201
+    checksum: sha256:7b24bd1315b2b5fdff265370392c3f948161583fd1b4c461550c578abef8f37a
+    name: ca-certificates
+    evr: 2025.2.80_v9.0.304-2.fc44
+    sourcerpm: ca-certificates-2025.2.80_v9.0.304-2.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/c/coreutils-single-9.8-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 679982
+    checksum: sha256:5aa69f3f56c5c27f090f83ef6974cbdb3a1abb7954291b235b0f2a014c161544
+    name: coreutils-single
+    evr: 9.8-3.fc44
+    sourcerpm: coreutils-9.8-3.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/c/crypto-policies-20250714-5.gitcd6043a.fc44.noarch.rpm
+    repoid: rawhide
+    size: 100855
+    checksum: sha256:3c38d08322b90ebc876544a843369b356b526e3edc1fdd98f8d159a811a2cdcd
+    name: crypto-policies
+    evr: 20250714-5.gitcd6043a.fc44
+    sourcerpm: crypto-policies-20250714-5.gitcd6043a.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/c/crypto-policies-scripts-20250714-5.gitcd6043a.fc44.noarch.rpm
+    repoid: rawhide
+    size: 136306
+    checksum: sha256:d7a054e48d6a2b69db57b24951ddab13d07621ccae17682f9295274e5141ed3b
+    name: crypto-policies-scripts
+    evr: 20250714-5.gitcd6043a.fc44
+    sourcerpm: crypto-policies-20250714-5.gitcd6043a.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/c/curl-8.16.0-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 241570
+    checksum: sha256:826a04b8db602c9128667e5b5fb89cdae8b5b1b8be26ab4bf9a9de7dd2301d10
+    name: curl
+    evr: 8.16.0-1.fc44
+    sourcerpm: curl-8.16.0-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/e/expat-2.7.2-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 121839
+    checksum: sha256:200f4665c9b003233bf934a70915d8450a1539479afe8d3c7172e236ede505d3
+    name: expat
+    evr: 2.7.2-1.fc44
+    sourcerpm: expat-2.7.2-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/f/fedora-gpg-keys-44-0.1.noarch.rpm
+    repoid: rawhide
+    size: 142099
+    checksum: sha256:e3233a41a4b7535354fbb6b93731c442b874ea8a7035e21f10e19d4ee1ae8d10
+    name: fedora-gpg-keys
+    evr: 44-0.1
+    sourcerpm: fedora-repos-44-0.1.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/f/fedora-release-44-0.2.noarch.rpm
+    repoid: rawhide
+    size: 14289
+    checksum: sha256:b5f6a2c36dae698e01898c6052ecb3f6fa679a9ed120ffcf1f75559f30221d23
+    name: fedora-release
+    evr: 44-0.2
+    sourcerpm: fedora-release-44-0.2.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/f/fedora-release-common-44-0.2.noarch.rpm
+    repoid: rawhide
+    size: 25633
+    checksum: sha256:312d2714d8c4cf7484809a245f8ef799e90c486a73e567c4afc89d1d6102ab94
+    name: fedora-release-common
+    evr: 44-0.2
+    sourcerpm: fedora-release-44-0.2.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/f/fedora-release-identity-basic-44-0.2.noarch.rpm
+    repoid: rawhide
+    size: 15073
+    checksum: sha256:a1c5d65c2b5d713283a1c2813b431191d6fad53dc9bed37ffafa7746ac2ac8ab
+    name: fedora-release-identity-basic
+    evr: 44-0.2
+    sourcerpm: fedora-release-44-0.2.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/f/fedora-repos-44-0.1.noarch.rpm
+    repoid: rawhide
+    size: 9291
+    checksum: sha256:550bd5e50ea6759f7e906d7be609e4aa407d60aa92f9391d414b56ac6470c4c4
+    name: fedora-repos
+    evr: 44-0.1
+    sourcerpm: fedora-repos-44-0.1.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/f/fedora-repos-rawhide-44-0.1.noarch.rpm
+    repoid: rawhide
+    size: 8855
+    checksum: sha256:adde42183e481d2fe525dfd6049be04fa0e070df780e5c7715391490aa0c4099
+    name: fedora-repos-rawhide
+    evr: 44-0.1
+    sourcerpm: fedora-repos-44-0.1.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/f/filesystem-3.18-50.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 1398533
+    checksum: sha256:2c8bbed1758f2884d62978d0f96e27f37cdcfc910593beaad5135808ce49ea13
+    name: filesystem
+    evr: 3.18-50.fc43
+    sourcerpm: filesystem-3.18-50.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/f/findutils-4.10.0-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 563204
+    checksum: sha256:db683fa3e84ab72bebb9be3fa43d3ee0aad49a303395bc839f8b9dd7829ba6fe
+    name: findutils
+    evr: 1:4.10.0-6.fc43
+    sourcerpm: findutils-4.10.0-6.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/g/gdbm-libs-1.23-10.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 58127
+    checksum: sha256:58c9520523d6a14db8b20479d6efad181417f4c86dabce08c38ef2dd42d86f41
+    name: gdbm-libs
+    evr: 1:1.23-10.fc43
+    sourcerpm: gdbm-1.23-10.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/g/glibc-2.42.9000-5.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 2316921
+    checksum: sha256:8f8a716bd198a31dffc980873df3755934729542edfee8b9f96b4d947565e0d6
+    name: glibc
+    evr: 2.42.9000-5.fc44
+    sourcerpm: glibc-2.42.9000-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/g/glibc-common-2.42.9000-5.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 340382
+    checksum: sha256:291c21c7370ddc90b26f88ac0a3ba6fb9297500794b930963a548c1436b48344
+    name: glibc-common
+    evr: 2.42.9000-5.fc44
+    sourcerpm: glibc-2.42.9000-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/g/glibc-gconv-extra-2.42.9000-5.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 1669303
+    checksum: sha256:a438b4954ccae5fe52e6f14e18fd080d1e660ba8e05e3884357e19f125ae8db4
+    name: glibc-gconv-extra
+    evr: 2.42.9000-5.fc44
+    sourcerpm: glibc-2.42.9000-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/g/glibc-minimal-langpack-2.42.9000-5.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 46841
+    checksum: sha256:f4fabbd4431c89b323af703da1b35d84b425e0c4a8214f6a1835ef167bfeb4fa
+    name: glibc-minimal-langpack
+    evr: 2.42.9000-5.fc44
+    sourcerpm: glibc-2.42.9000-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/g/grep-3.12-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 306271
+    checksum: sha256:d9549130679b3868cc4a33c6df5b2d1516d8776761af435e8c55ebacb7e53424
+    name: grep
+    evr: 3.12-2.fc43
+    sourcerpm: grep-3.12-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/k/keyutils-libs-1.6.3-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 32104
+    checksum: sha256:211eb3a52d27532b517510ff0ff2f7f48f363d23a6212d9d213060ee166b63aa
+    name: keyutils-libs
+    evr: 1.6.3-6.fc43
+    sourcerpm: keyutils-1.6.3-6.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/k/krb5-libs-1.21.3-8.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 779021
+    checksum: sha256:e6ae79e397c3a7cbb0d6cd2041ac3e2a52643abec3910c947fe4b34cd627c8c3
+    name: krb5-libs
+    evr: 1.21.3-8.fc44
+    sourcerpm: krb5-1.21.3-8.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libacl-2.3.2-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 24862
+    checksum: sha256:a3409008992fdcc81051be44ef9d2f6b18aacbe48f31bcf9ca135a745a1a82ed
+    name: libacl
+    evr: 2.3.2-4.fc43
+    sourcerpm: acl-2.3.2-4.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libattr-2.5.2-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 18281
+    checksum: sha256:c010d15cf39fffbe9dd43f30aa1797fc467569c1fbc0b63eb46056be853a175b
+    name: libattr
+    evr: 2.5.2-6.fc43
+    sourcerpm: attr-2.5.2-6.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libcap-2.76-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 89023
+    checksum: sha256:73e181ee91797cdf4d9e6299a3d7d38e090441ded91327bbf5856e155d19a48f
+    name: libcap
+    evr: 2.76-3.fc44
+    sourcerpm: libcap-2.76-3.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libcap-ng-0.8.5-8.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 32969
+    checksum: sha256:0ffa82b982598c8364b924be9d333bf3fbb878df00df86cf50eed8692e6f5dd8
+    name: libcap-ng
+    evr: 0.8.5-8.fc44
+    sourcerpm: libcap-ng-0.8.5-8.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libcom_err-1.47.3-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 27435
+    checksum: sha256:690117a99bc49ddc26bb96834fe03a8d990ecc378129adfde4e6126fcdeba19d
+    name: libcom_err
+    evr: 1.47.3-2.fc43
+    sourcerpm: e2fsprogs-1.47.3-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libcurl-minimal-8.16.0-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 336136
+    checksum: sha256:f8a390a78bcf2f2a020c56731c1f3941b8684a230692ecc0951702bc7cdbe3ee
+    name: libcurl-minimal
+    evr: 8.16.0-1.fc44
+    sourcerpm: curl-8.16.0-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libeconf-0.7.9-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 36056
+    checksum: sha256:f605e6a28fe88c74087785506f00a902955d84f01ade5c68d617052488380a39
+    name: libeconf
+    evr: 0.7.9-2.fc43
+    sourcerpm: libeconf-0.7.9-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libffi-3.5.2-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 42044
+    checksum: sha256:6e41fb66daf6961759bcb2d22c0ec902c8a7ac5bf27102f416adfd6bb5c6a5bf
+    name: libffi
+    evr: 3.5.2-1.fc44
+    sourcerpm: libffi-3.5.2-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libgcc-15.2.1-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 136189
+    checksum: sha256:fb23531ca175baa04ac9d60b76d89f6d6e8d85d0bdb31b91a70b2d4d884ec311
+    name: libgcc
+    evr: 15.2.1-2.fc44
+    sourcerpm: gcc-15.2.1-2.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libidn2-2.3.8-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 179072
+    checksum: sha256:4499b1e92d9940f775d682491040823ee72245ad5dd98edf61e1c73bdb37d1be
+    name: libidn2
+    evr: 2.3.8-2.fc43
+    sourcerpm: libidn2-2.3.8-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libnghttp2-1.67.1-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 74810
+    checksum: sha256:1edb210d728bb5709635cf613a9766e48397f27b43650b062b6016982c621a4b
+    name: libnghttp2
+    evr: 1.67.1-1.fc44
+    sourcerpm: nghttp2-1.67.1-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libselinux-3.9-5.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 100099
+    checksum: sha256:57673416205dc701f62aa22ceb0d19aac75c50659f74be0556f524dd1c64bd09
+    name: libselinux
+    evr: 3.9-5.fc44
+    sourcerpm: libselinux-3.9-5.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libsepol-3.9-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 353660
+    checksum: sha256:f8579d40622504a8567581213bb4a42fb4c402fc79160aea95364ee33588a664
+    name: libsepol
+    evr: 3.9-2.fc43
+    sourcerpm: libsepol-3.9-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libtasn1-4.20.0-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 76252
+    checksum: sha256:1649c9ab10f4779f7a6f3a56894c59841abe4522904fe8937dc5107a5cca384b
+    name: libtasn1
+    evr: 4.20.0-2.fc43
+    sourcerpm: libtasn1-4.20.0-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libunistring-1.1-10.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 555961
+    checksum: sha256:59e27253be6c1fecac507f44bdddfb1c74d29a9f74041a7eca64eb559c99cf4d
+    name: libunistring
+    evr: 1.1-10.fc43
+    sourcerpm: libunistring-1.1-10.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libuuid-2.41.1-17.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 26922
+    checksum: sha256:750603921625d248c585dcaed994547e9b5e74ab30c711dbf9ef113dc201b321
+    name: libuuid
+    evr: 2.41.1-17.fc44
+    sourcerpm: util-linux-2.41.1-17.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libverto-0.3.2-11.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 21171
+    checksum: sha256:46cf35e99b93c05b609696ff75c9f4e086827e80de94644337e0f26f47b444f0
+    name: libverto
+    evr: 0.3.2-11.fc43
+    sourcerpm: libverto-0.3.2-11.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/l/libzstd-1.5.7-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 367734
+    checksum: sha256:b6b5a3f84f9e89a3b998e48b9d61aed587d2f98c53ffc5665ce21022a3fc83ed
+    name: libzstd
+    evr: 1.5.7-3.fc44
+    sourcerpm: zstd-1.5.7-3.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/m/mpdecimal-4.0.1-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 99440
+    checksum: sha256:aad57840fa2437b9f807a02d40c21d5b893829b5ceee612fc81bce44337f4020
+    name: mpdecimal
+    evr: 4.0.1-2.fc43
+    sourcerpm: mpdecimal-4.0.1-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/n/ncurses-base-6.5-7.20250614.fc43.noarch.rpm
+    repoid: rawhide
+    size: 90314
+    checksum: sha256:96c933d77b453617d65fa662fda74b17efea86288d8e570d09aa45dd0fedd41b
+    name: ncurses-base
+    evr: 6.5-7.20250614.fc43
+    sourcerpm: ncurses-6.5-7.20250614.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/n/ncurses-libs-6.5-7.20250614.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 340714
+    checksum: sha256:727712380a7c5a94ea60e4fe851aba24f9c7b32fe9a15c21109162b9c3587baf
+    name: ncurses-libs
+    evr: 6.5-7.20250614.fc43
+    sourcerpm: ncurses-6.5-7.20250614.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/o/openssl-libs-3.5.1-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 2662406
+    checksum: sha256:282089503514efc9660ee1730603b0cb1d6216b623b5f17da549133f356aaf0c
+    name: openssl-libs
+    evr: 1:3.5.1-3.fc44
+    sourcerpm: openssl-3.5.1-3.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/p11-kit-0.25.8-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 522273
+    checksum: sha256:9a209928d03554ff58dc84991c19fcc3d3918208769b465127bbe3e261c90f77
+    name: p11-kit
+    evr: 0.25.8-1.fc44
+    sourcerpm: p11-kit-0.25.8-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/p11-kit-trust-0.25.8-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 143075
+    checksum: sha256:bbabc2b22b057adf7f656c37d1ec2a0bfeba2f040dc3cbd8b614f35108432b11
+    name: p11-kit-trust
+    evr: 0.25.8-1.fc44
+    sourcerpm: p11-kit-0.25.8-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/pam-libs-1.7.1-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 58903
+    checksum: sha256:921d91b65c04421a7236084e1704deb4e9ec37135b896c49ba9506c5c9140832
+    name: pam-libs
+    evr: 1.7.1-3.fc43
+    sourcerpm: pam-1.7.1-3.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/pcre2-10.46-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 268512
+    checksum: sha256:ce1d0b04e8c02743eeac62304f508169a23346ea535e93a6f0274d89fed4abc5
+    name: pcre2
+    evr: 10.46-1.fc44
+    sourcerpm: pcre2-10.46-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/pcre2-syntax-10.46-1.fc44.noarch.rpm
+    repoid: rawhide
+    size: 166057
+    checksum: sha256:e8dddf85dfd1845827cd3eb19bda168643dfb3902937dc68866e709ae0614c4d
+    name: pcre2-syntax
+    evr: 10.46-1.fc44
+    sourcerpm: pcre2-10.46-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/pkcs11-provider-1.1-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 180547
+    checksum: sha256:1fac76147b819616e8b41c5f6bae049c5e0818d6b1ed37cb3841a4de4cf621d8
+    name: pkcs11-provider
+    evr: 1.1-1.fc44
+    sourcerpm: pkcs11-provider-1.1-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/python-pip-wheel-25.2-4.fc44.noarch.rpm
+    repoid: rawhide
+    size: 1188586
+    checksum: sha256:ea38081f0e2c631e66da43628dd11e4eed8ef838cc334f3c48265d36be74f40f
+    name: python-pip-wheel
+    evr: 25.2-4.fc44
+    sourcerpm: python-pip-25.2-4.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/python-unversioned-command-3.14.0~rc3-1.fc44.noarch.rpm
+    repoid: rawhide
+    size: 9853
+    checksum: sha256:fb6e352b8ef178f70e725770ff65c10a8f24722526b7ca621ec71136f45b4a55
+    name: python-unversioned-command
+    evr: 3.14.0~rc3-1.fc44
+    sourcerpm: python3.14-3.14.0~rc3-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/python3-3.14.0~rc3-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 28260
+    checksum: sha256:dfe0a8cef61828cd9b70ea0bd9647e26d7833e7b44d9e68c4ce53d2b842c94df
+    name: python3
+    evr: 3.14.0~rc3-1.fc44
+    sourcerpm: python3.14-3.14.0~rc3-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/p/python3-libs-3.14.0~rc3-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 10299927
+    checksum: sha256:62f01ed3ddf8bfd2b2818cfe29a549f131c3af6abfd9beb61b56c4e72f3a8fc3
+    name: python3-libs
+    evr: 3.14.0~rc3-1.fc44
+    sourcerpm: python3.14-3.14.0~rc3-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/r/readline-8.3-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 229987
+    checksum: sha256:d8e3bceeb89256accbb3cbcaddeaaed3073376b74395d5b015c8997740600da6
+    name: readline
+    evr: 8.3-2.fc43
+    sourcerpm: readline-8.3-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/s/sed-4.9-5.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 324683
+    checksum: sha256:53cd420264bc811610f2d33bcec8c29d0f56362b8a4777a8a3d4dec8982c336a
+    name: sed
+    evr: 4.9-5.fc43
+    sourcerpm: sed-4.9-5.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/s/setup-2.15.0-26.fc43.noarch.rpm
+    repoid: rawhide
+    size: 161100
+    checksum: sha256:bc8674d724c5000b0381c87b77430d2858f7caffac223161b7a2852ace87bed3
+    name: setup
+    evr: 2.15.0-26.fc43
+    sourcerpm: setup-2.15.0-26.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/s/sqlite-libs-3.50.4-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 779760
+    checksum: sha256:3d5fb5c43711da7962708e05b13d63bde91c743e1e7bc145bb96c6a5ac3e31b9
+    name: sqlite-libs
+    evr: 3.50.4-1.fc44
+    sourcerpm: sqlite-3.50.4-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/s/systemd-libs-258-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 839776
+    checksum: sha256:c423e369b1bff497d75fce904c860cee18a0b78adfe244100023ac1604e3b0a6
+    name: systemd-libs
+    evr: 258-1.fc44
+    sourcerpm: systemd-258-1.fc44.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/t/tzdata-2025b-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 731033
+    checksum: sha256:af599d6221dd44a934f7bee6b429fb1a1f49c0c659149c015d4cab7d580e074e
+    name: tzdata
+    evr: 2025b-3.fc43
+    sourcerpm: tzdata-2025b-3.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/x/xz-libs-5.8.1-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 115650
+    checksum: sha256:641c1b3bd57e7d707e385902ae0442d42232455c39ec366d5bbc7167d2ba25aa
+    name: xz-libs
+    evr: 1:5.8.1-2.fc43
+    sourcerpm: xz-5.8.1-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/z/zlib-ng-compat-2.2.5-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 81108
+    checksum: sha256:c3de9920dcd5b9b300562800bcfa53093cda3866dff5218e2021a24b52abcbe8
+    name: zlib-ng-compat
+    evr: 2.2.5-2.fc44
+    sourcerpm: zlib-ng-2.2.5-2.fc44.src.rpm
+  source:
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/acl-2.3.2-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 633361
+    checksum: sha256:2377c5bcd45b5fa25bb5a142eac2a3734ee6e20e23c823449e0f88a964ab6970
+    name: acl
+    evr: 2.3.2-4.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/attr-2.5.2-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 409941
+    checksum: sha256:cd2a6957afb4bbb99d4ab18408e4b16fe47a990e25b7e46b613bc99c074a08dd
+    name: attr
+    evr: 2.5.2-6.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/audit-4.1.2-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 705614
+    checksum: sha256:abfd60a1be3d15041f42acceac222f8f4ce379410755e973173217d87df83152
+    name: audit
+    evr: 4.1.2-2.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/b/bash-5.3.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 11466781
+    checksum: sha256:125e5a73e476713a3e08b8f8e6080a51b789945be408d9db118cdc7cc64a79d4
+    name: bash
+    evr: 5.3.0-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/b/bzip2-1.0.8-21.fc43.src.rpm
+    repoid: rawhide-source
+    size: 847670
+    checksum: sha256:484fc8b470d0a0adfb5a9ed5b28a1f49ac8bf2fa0974ba85885040efde247575
+    name: bzip2
+    evr: 1.0.8-21.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/ca-certificates-2025.2.80_v9.0.304-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 778430
+    checksum: sha256:1b769427ba814771f2bfca55af79a60a70ca847b319e33a90afd1ee03602d723
+    name: ca-certificates
+    evr: 2025.2.80_v9.0.304-2.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/chkconfig-1.33-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 248708
+    checksum: sha256:27f72240ba77a301929bc1615dd6f41f1a8a6ee1c51c8f1983337dfd565d1401
+    name: chkconfig
+    evr: 1.33-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/coreutils-9.8-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 6428312
+    checksum: sha256:b451e50ccabbffa9ec2a8e3999c2f0bbfb0caf57c67fd1366e1e161694e7a58b
+    name: coreutils
+    evr: 9.8-3.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/crypto-policies-20250714-5.gitcd6043a.fc44.src.rpm
+    repoid: rawhide-source
+    size: 178988
+    checksum: sha256:fd3eb46521bc2b149ede9d17bfbc08e879639e8dbf7aa7e5a24d5987fe4142aa
+    name: crypto-policies
+    evr: 20250714-5.gitcd6043a.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/curl-8.16.0-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2890432
+    checksum: sha256:f858688f2742baec3d47b7f79666784f9f393f51bbc87353c62d527008d0f1ec
+    name: curl
+    evr: 8.16.0-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/e/e2fsprogs-1.47.3-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 7738172
+    checksum: sha256:3b130b9f81a08772b53f81c1f92364086059732e008d2b5d4489418fa36fa3b9
+    name: e2fsprogs
+    evr: 1.47.3-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/e/expat-2.7.2-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 847646
+    checksum: sha256:ca0c2f9b6d6ae20398cb4836ac726aad4e946396ecd633ebd6b24324aa66d346
+    name: expat
+    evr: 2.7.2-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/fedora-release-44-0.2.src.rpm
+    repoid: rawhide-source
+    size: 165588
+    checksum: sha256:9434de02c7bb67bbdba29d02585cbbf178fe5a58050b4ecf467890255681282c
+    name: fedora-release
+    evr: 44-0.2
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/fedora-repos-44-0.1.src.rpm
+    repoid: rawhide-source
+    size: 148052
+    checksum: sha256:53d9f0e2860e19a7bcbc3e3f806867be5a027ad10e48b68e5b18f002bd27ecf9
+    name: fedora-repos
+    evr: 44-0.1
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/filesystem-3.18-50.fc43.src.rpm
+    repoid: rawhide-source
+    size: 339736
+    checksum: sha256:12595de9e025521021218b191d3bb48d198e0f74f9d681c2be8dce5d16afff38
+    name: filesystem
+    evr: 3.18-50.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/findutils-4.10.0-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2330115
+    checksum: sha256:71391b2f82aa1947fe3448eeadbe4c82eb2e518cc699d60ace1eaa22a64c0248
+    name: findutils
+    evr: 1:4.10.0-6.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gcc-15.2.1-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 96942584
+    checksum: sha256:4fc9da80958c2b6661c5454f5198bf03cf29581db2ab6d8604eeafe11ebc69a7
+    name: gcc
+    evr: 15.2.1-2.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gdbm-1.23-10.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1151702
+    checksum: sha256:8ce67ae4e56038bc096296267f91dfaa9ad42f2f3227178fe620310d08bb9ca0
+    name: gdbm
+    evr: 1:1.23-10.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/glibc-2.42.9000-5.fc44.src.rpm
+    repoid: rawhide-source
+    size: 21477923
+    checksum: sha256:662968ef0fed069befbebee9fb700896f765184c2f741dccafa48ba3443c29a2
+    name: glibc
+    evr: 2.42.9000-5.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/grep-3.12-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2159821
+    checksum: sha256:a6a83547569e4559d0836a2d5899cf4c0f92e83221f3dd346524bb9ddf12604e
+    name: grep
+    evr: 3.12-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/k/keyutils-1.6.3-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 163486
+    checksum: sha256:783c52298058e034ea830e93375dcbbc38b00ea4366f89212e5fd77b8c171339
+    name: keyutils
+    evr: 1.6.3-6.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/k/krb5-1.21.3-8.fc44.src.rpm
+    repoid: rawhide-source
+    size: 9664671
+    checksum: sha256:a3250abd9bf67bdea2b75730dff9f8acb1522df616e5e768779ce17b92a8b184
+    name: krb5
+    evr: 1.21.3-8.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libcap-2.76-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 306230
+    checksum: sha256:345edeb720bf03eda3f2352e30ea02457164eaed2d7e55b8bb60f337cf4bbe8a
+    name: libcap
+    evr: 2.76-3.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libcap-ng-0.8.5-8.fc44.src.rpm
+    repoid: rawhide-source
+    size: 492302
+    checksum: sha256:c6b4968a6984fa8f1c90addf6d464369c942da21e47883f17a84dd00c595bb8b
+    name: libcap-ng
+    evr: 0.8.5-8.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libeconf-0.7.9-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 274685
+    checksum: sha256:acb15afff25fe1887120fc3d38c659e4773e53b80b51d7e5546dcce23379a94e
+    name: libeconf
+    evr: 0.7.9-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libffi-3.5.2-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 1457476
+    checksum: sha256:c5238097f0924c57006cc0d783e41d381515a8e17df239c0f13fb29729b311bc
+    name: libffi
+    evr: 3.5.2-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libidn2-2.3.8-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2250373
+    checksum: sha256:7a541a5fb90c0633461feb1dced2fe5b47eafd166664d6c7d452a24199ffdb5d
+    name: libidn2
+    evr: 2.3.8-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libselinux-3.9-5.fc44.src.rpm
+    repoid: rawhide-source
+    size: 398380
+    checksum: sha256:d3d5af7ea5a2c89c540afd38361340e41e22d2038dea968f374998ee58f4783d
+    name: libselinux
+    evr: 3.9-5.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libsepol-3.9-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 623219
+    checksum: sha256:7ecae8f77153660e6adc2f6c0e5ea24d2bf15390e109163adacf6c20a8b7c1b9
+    name: libsepol
+    evr: 3.9-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libtasn1-4.20.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1818686
+    checksum: sha256:29e4cf061886445c5e892c875a5a5de653c2d5136f95589a8be511eb221de9ce
+    name: libtasn1
+    evr: 4.20.0-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libunistring-1.1-10.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2422655
+    checksum: sha256:08a3c254683ef43511a66e0737585e15a1be593948428af720a9728f09a39c60
+    name: libunistring
+    evr: 1.1-10.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libverto-0.3.2-11.fc43.src.rpm
+    repoid: rawhide-source
+    size: 410489
+    checksum: sha256:f6517880e706eebde28b2b64ece332d772108a6cdfec74b6563b8243f0feddc6
+    name: libverto
+    evr: 0.3.2-11.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/m/mpdecimal-4.0.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1088939
+    checksum: sha256:319ea8f7950830df001fddbc8ededeb6b804cbc3119c2f470f893b504df50efc
+    name: mpdecimal
+    evr: 4.0.1-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/n/ncurses-6.5-7.20250614.fc43.src.rpm
+    repoid: rawhide-source
+    size: 3855709
+    checksum: sha256:c076395bb22e4492f2cd348689ff617f68bb7cfea4e8c89012dc3938094d4b17
+    name: ncurses
+    evr: 6.5-7.20250614.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/n/nghttp2-1.67.1-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 1715137
+    checksum: sha256:fc671a37365a554646b1c3d413438d430fad9488563766727371c9b42faf2455
+    name: nghttp2
+    evr: 1.67.1-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/o/openssl-3.5.1-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 53407687
+    checksum: sha256:d379ea83cff49f7cbdf064dfdad29e2bb571730a67a4e2bafee0f6ebe4c21b59
+    name: openssl
+    evr: 1:3.5.1-3.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/p11-kit-0.25.8-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 1117373
+    checksum: sha256:2683442dfdb62ae20443f47ad4c18819b48d2927dabab5e24566cdaa0a8d0430
+    name: p11-kit
+    evr: 0.25.8-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pam-1.7.1-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 664745
+    checksum: sha256:87760e267551782d6f0d471c9e868d9fb7aad7c5b7b38b6d36937e87210aac6d
+    name: pam
+    evr: 1.7.1-3.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pcre2-10.46-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2097043
+    checksum: sha256:fc1a1136493053c2a50d58e06d5b12d304f9802f4a1bcfd72dc88d1d275ec8f6
+    name: pcre2
+    evr: 10.46-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pkcs11-provider-1.1-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 206203
+    checksum: sha256:054ff6bd6688889b6e4e0301a7dad6d437307d294ddd426122288b2b10e7b11b
+    name: pkcs11-provider
+    evr: 1.1-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/python-pip-25.2-4.fc44.src.rpm
+    repoid: rawhide-source
+    size: 10449826
+    checksum: sha256:d496f5976d7d3f0e927068a0ef3f06281c6d918f0fa037233c905e8eb935a980
+    name: python-pip
+    evr: 25.2-4.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/python3.14-3.14.0~rc3-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 23702795
+    checksum: sha256:07730c21bed4f63d313c2622ff402ca0e3aedd5a1db40113dd240a6ebd8e423c
+    name: python3.14
+    evr: 3.14.0~rc3-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/r/readline-8.3-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 3479764
+    checksum: sha256:233bb786e7706c923f0629926c9e08d69089d67c0af23b46a062fbbbe878a148
+    name: readline
+    evr: 8.3-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/sed-4.9-5.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1492718
+    checksum: sha256:bca7d324a4b302486a116f0ba2226ae8339a01c1d75a507bdd6bc8acc8c1bce8
+    name: sed
+    evr: 4.9-5.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/setup-2.15.0-26.fc43.src.rpm
+    repoid: rawhide-source
+    size: 247958
+    checksum: sha256:0619e5b9c93cf7f55e5a134675e45ded54806c986d01c1502fa265508d58faaa
+    name: setup
+    evr: 2.15.0-26.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/sqlite-3.50.4-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 28421156
+    checksum: sha256:77ebc23d4586f033547646ebcf6dcebc2b6421641a3a4b018432a8f843bf5a71
+    name: sqlite
+    evr: 3.50.4-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/systemd-258-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 17045581
+    checksum: sha256:989fa00f54de3a018d5990d6c4643116fead4a2de9fbea32466ff0ea178349e9
+    name: systemd
+    evr: 258-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/tzdata-2025b-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 899472
+    checksum: sha256:db3f6927a9f3b249a9369f32fd16f465f949f1753c0f1e1db69001c0db8d4875
+    name: tzdata
+    evr: 2025b-3.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/u/util-linux-2.41.1-17.fc44.src.rpm
+    repoid: rawhide-source
+    size: 9667084
+    checksum: sha256:f46c2a81608cea98f509f06d0d40a6962b8ca58ff9abe4faec10b9d2801a1635
+    name: util-linux
+    evr: 2.41.1-17.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/x/xz-5.8.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2631822
+    checksum: sha256:755a276d473b50c0e8d2b6b69f6e9deaa04f30993cb3087b9d5a00ede92272be
+    name: xz
+    evr: 1:5.8.1-2.fc43
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/z/zlib-ng-2.2.5-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2422995
+    checksum: sha256:9bdbdf42fd0c151d602636dc708f3711c790bad5261d6e0eba1581cded212646
+    name: zlib-ng
+    evr: 2.2.5-2.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/z/zstd-1.5.7-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2469977
+    checksum: sha256:3adffa4e7ca38f71ffcaabcb0629c786e491dd28e99cb190109c5547f30dba84
+    name: zstd
+    evr: 1.5.7-3.fc44
+  module_metadata: []
