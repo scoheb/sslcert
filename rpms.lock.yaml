@@ -473,13 +473,13 @@ arches:
     name: zlib-ng-compat
     evr: 2.2.5-2.fc44
     sourcerpm: zlib-ng-2.2.5-2.fc44.src.rpm
-  - url: https://mtls.internal.console.redhat.com/api/pulp-content/rhel-primitives-dev/aarch64/Packages/h/hello-2.10.1-6.fc44.aarch64.rpm
+  - url: https://mtls.internal.console.redhat.com/api/pulp-content/rhel-primitives-dev/aarch64/Packages/h/hello-2.12.1-6.fc44.aarch64.rpm
     repoid: rhel-primitives-dev
     size: 79452
     checksum: sha256:6add734036c9aac417352ba2742a8a96e4b8e25726a0b77e7b8e8c139a387f53
     name: hello
-    evr: 2.10.1-6.fc44
-    sourcerpm: hello-2.10.1-6.fc44.src.rpm
+    evr: 2.12.1-6.fc44
+    sourcerpm: hello-2.12.1-6.fc44.src.rpm
   source:
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/acl-2.3.2-4.fc43.src.rpm
     repoid: rawhide-source
