@@ -3,9 +3,11 @@ packages:
   - coreutils-single
   - curl
   - libcurl-minimal
+  - hello
 contentOrigin:
   repofiles:
     - yum-repos/fedora-rawhide.repo
+    - yum-repos/rhel-primitives-dev.repo
 arches: [x86_64, aarch64]
 context:
   bare: true

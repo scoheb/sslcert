@@ -1,0 +1,10 @@
+[rhel-primitives-dev]
+name=rhel-primitives-dev
+baseurl=https://mtls.internal.console.redhat.com/api/pulp-content/rhel-primitives-dev/$arch/
+enabled=1
+sslverify=0
+gpgcheck=0
+sslcacert=/etc/pki/tls/certs/ca-bundle.crt
+sslclientcert=$SSL_AUTH_CLIENT_CERT
+sslclientkey=$SSL_AUTH_CLIENT_KEY
+priority=10
