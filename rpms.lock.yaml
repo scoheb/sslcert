@@ -172,6 +172,13 @@ arches:
     name: grep
     evr: 3.12-2.fc43
     sourcerpm: grep-3.12-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/i/info-7.2-6.fc43.aarch64.rpm
+    repoid: rawhide
+    size: 183747
+    checksum: sha256:a8c1588f0200380e357d7186bb7209592228bdec5c0ae4a8dea71d52c2b8aba7
+    name: info
+    evr: 7.2-6.fc43
+    sourcerpm: texinfo-7.2-6.fc43.src.rpm
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/aarch64/os/Packages/k/keyutils-libs-1.6.3-6.fc43.aarch64.rpm
     repoid: rawhide
     size: 32272
@@ -466,6 +473,13 @@ arches:
     name: zlib-ng-compat
     evr: 2.2.5-2.fc44
     sourcerpm: zlib-ng-2.2.5-2.fc44.src.rpm
+  - url: https://mtls.internal.console.redhat.com/api/pulp-content/rhel-primitives-dev/aarch64/Packages/h/hello-2.12.1-6.fc44.aarch64.rpm
+    repoid: rhel-primitives-dev
+    size: 79452
+    checksum: sha256:6add734036c9aac417352ba2742a8a96e4b8e25726a0b77e7b8e8c139a387f53
+    name: hello
+    evr: 2.12.1-6.fc44
+    sourcerpm: hello-2.12.1-6.fc44.src.rpm
   source:
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/acl-2.3.2-4.fc43.src.rpm
     repoid: rawhide-source
@@ -749,6 +763,12 @@ arches:
     checksum: sha256:989fa00f54de3a018d5990d6c4643116fead4a2de9fbea32466ff0ea178349e9
     name: systemd
     evr: 258-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/texinfo-7.2-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 6469598
+    checksum: sha256:a74e00d24c0721ee1944f9e6995232580e18d7d32fce99538c7fe68f7e7c62b4
+    name: texinfo
+    evr: 7.2-6.fc43
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/tzdata-2025b-3.fc43.src.rpm
     repoid: rawhide-source
     size: 899472
@@ -950,6 +970,13 @@ arches:
     name: grep
     evr: 3.12-2.fc43
     sourcerpm: grep-3.12-2.fc43.src.rpm
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/i/info-7.2-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 187258
+    checksum: sha256:0e27bebfb5df58569d99129ba35023d21d0536d9305db2c5facc429feb905dfe
+    name: info
+    evr: 7.2-6.fc43
+    sourcerpm: texinfo-7.2-6.fc43.src.rpm
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide//Everything/x86_64/os/Packages/k/keyutils-libs-1.6.3-6.fc43.x86_64.rpm
     repoid: rawhide
     size: 32104
@@ -1244,6 +1271,13 @@ arches:
     name: zlib-ng-compat
     evr: 2.2.5-2.fc44
     sourcerpm: zlib-ng-2.2.5-2.fc44.src.rpm
+  - url: https://mtls.internal.console.redhat.com/api/pulp-content/rhel-primitives-dev/x86_64/Packages/h/hello-2.12.1-6.fc44.x86_64.rpm
+    repoid: rhel-primitives-dev
+    size: 80078
+    checksum: sha256:f8c8320e0ec454a303506f06082b7bf8cb4f4253d91738fd90ecd2b7643f2548
+    name: hello
+    evr: 2.12.1-6.fc44
+    sourcerpm: hello-2.12.1-6.fc44.src.rpm
   source:
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/acl-2.3.2-4.fc43.src.rpm
     repoid: rawhide-source
@@ -1527,6 +1561,12 @@ arches:
     checksum: sha256:989fa00f54de3a018d5990d6c4643116fead4a2de9fbea32466ff0ea178349e9
     name: systemd
     evr: 258-1.fc44
+  - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/texinfo-7.2-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 6469598
+    checksum: sha256:a74e00d24c0721ee1944f9e6995232580e18d7d32fce99538c7fe68f7e7c62b4
+    name: texinfo
+    evr: 7.2-6.fc43
   - url: https://download-ib01.fedoraproject.org/pub/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/tzdata-2025b-3.fc43.src.rpm
     repoid: rawhide-source
     size: 899472
