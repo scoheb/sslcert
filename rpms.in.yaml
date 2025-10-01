@@ -3,7 +3,6 @@ packages:
   - coreutils-single
   - curl
   - libcurl-minimal
-  - hello
 contentOrigin:
   repofiles:
     - yum-repos/fedora-rawhide.repo
